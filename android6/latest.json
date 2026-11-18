@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "0.8.7-android6",
+  "versionCode": 16,
+  "versionName": "0.8.8-android6",
   "apkUrl": "https://raw.githubusercontent.com/vincent-deprato/Android-board-releases/main/android6/app-release.apk",
-  "sha256": "8e8e9366297228232f07364107e231745c14579de4363ae169e26e3bb8882e32",
+  "sha256": "f78cf9d25e42c9cae2a7c04327cefe1b6c5a841f66f25e162aefaec98b34a2f8",
   "releaseNotes": "Mise à jour du canal Android 6.0."
 }
