@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "0.8.5",
+  "versionCode": 14,
+  "versionName": "0.8.6",
   "apkUrl": "https://raw.githubusercontent.com/vincent-deprato/Android-board-releases/main/app-release.apk",
-  "sha256": "417abbb4eb7232ed69e858ae22e3a7be0ae2a61419eb428015351c29526e6f42",
+  "sha256": "cb6c161da8d2a32c7563193626a068954c2fa473d7942e7358bb70e92691bd40",
   "releaseNotes": "Nouvelle version de Family Hub. Consulte les changements dans les notes de version."
 }
