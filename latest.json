@@ -1,7 +1,7 @@
 {
-    "versionCode":  21,
-    "versionName":  "0.9.3",
+    "versionCode":  23,
+    "versionName":  "0.9.5",
     "apkUrl":  "https://raw.githubusercontent.com/vincent-deprato/Android-board-releases/main/app-release.apk",
-    "sha256":  "b58de45a25cb675292e326d505509062bbc29aaefdea082a6f7a82b11b143366",
-    "releaseNotes":  "fix ux telephone"
+    "sha256":  "99e69ec3b4c5e1b69db96be27d1785c4e245c90a487b184a17a621436f5fede3",
+    "releaseNotes":  "ajout version beta"
 }
