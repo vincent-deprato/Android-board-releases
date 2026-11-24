@@ -1,0 +1,7 @@
+{
+    "versionCode":  22,
+    "versionName":  "0.9.4-beta",
+    "apkUrl":  "https://raw.githubusercontent.com/vincent-deprato/Android-board-releases/main/app-beta.apk",
+    "sha256":  "8b45bdac35fc48c8a112d6b7a88d0a9e15d89dbbaf6da2a5bb4dcc597da346d2",
+    "releaseNotes":  "amelioration ux telephone"
+}
