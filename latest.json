@@ -1,7 +1,7 @@
 {
-    "versionCode":  20,
-    "versionName":  "0.9.2",
+    "versionCode":  21,
+    "versionName":  "0.9.3",
     "apkUrl":  "https://raw.githubusercontent.com/vincent-deprato/Android-board-releases/main/app-release.apk",
-    "sha256":  "ba70d6faa44a58146951bdc881b1182d4b8c19b54d151e55af31ab148f1ff65d",
-    "releaseNotes":  "fix mise en veille"
+    "sha256":  "b58de45a25cb675292e326d505509062bbc29aaefdea082a6f7a82b11b143366",
+    "releaseNotes":  "fix ux telephone"
 }
