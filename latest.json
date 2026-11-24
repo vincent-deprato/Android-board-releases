@@ -1,7 +1,7 @@
 {
-    "versionCode":  17,
-    "versionName":  "0.8.9",
+    "versionCode":  18,
+    "versionName":  "0.9.0",
     "apkUrl":  "https://raw.githubusercontent.com/vincent-deprato/Android-board-releases/main/app-release.apk",
-    "sha256":  "5de103fe216a172ba1bfaf89338971153139d5b7c9c8935a5335972785ec4a7f",
-    "releaseNotes":  "Nouvelle UX"
+    "sha256":  "67617bb78419d8241fb9786411c2dcb6e6adaa1b780942b64edd5403f89484c2",
+    "releaseNotes":  "fix orientation pour telephone"
 }
