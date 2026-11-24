@@ -1,7 +1,7 @@
 {
-    "versionCode":  16,
-    "versionName":  "0.8.8",
+    "versionCode":  17,
+    "versionName":  "0.8.9",
     "apkUrl":  "https://raw.githubusercontent.com/vincent-deprato/Android-board-releases/main/app-release.apk",
-    "sha256":  "eb428ca5d1b6133118297c616a9da96bd00838a72fc747aacfc6df8b2bb34ca5",
-    "releaseNotes":  "Nouveau dashboard Maison connectÃ©e : pilotage des volets, affichage du chauffage Tydom Jour/Nuit et interface adaptative amÃ©liorÃ©e."
+    "sha256":  "5de103fe216a172ba1bfaf89338971153139d5b7c9c8935a5335972785ec4a7f",
+    "releaseNotes":  "Nouvelle UX"
 }
