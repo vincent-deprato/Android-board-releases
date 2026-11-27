@@ -1,7 +1,7 @@
 {
-    "versionCode":  26,
-    "versionName":  "0.9.8-beta",
+    "versionCode":  27,
+    "versionName":  "0.9.9-beta",
     "apkUrl":  "https://raw.githubusercontent.com/vincent-deprato/Android-board-releases/main/app-beta.apk",
-    "sha256":  "ab147084a954be345aa4322eb224a060b6b9d399473fd710998ed5203d3c378d",
-    "releaseNotes":  "fix planifier menu"
+    "sha256":  "ce438e58427272cc3434b9c38942bba2b6f12a1ea76a52f28716dae38535052b",
+    "releaseNotes":  "included notification"
 }
