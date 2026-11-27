@@ -1,7 +1,7 @@
 {
-    "versionCode":  27,
-    "versionName":  "0.9.9-beta",
+    "versionCode":  28,
+    "versionName":  "0.9.10-beta",
     "apkUrl":  "https://raw.githubusercontent.com/vincent-deprato/Android-board-releases/main/app-beta.apk",
-    "sha256":  "ce438e58427272cc3434b9c38942bba2b6f12a1ea76a52f28716dae38535052b",
-    "releaseNotes":  "included notification"
+    "sha256":  "28f150f55789d45b1b54ec48806d9b0d7ab573b80ce7f81ab461c882bbb6e323",
+    "releaseNotes":  "ajout de la notification"
 }
