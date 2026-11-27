@@ -1,7 +1,7 @@
 {
-    "versionCode":  24,
-    "versionName":  "0.9.6-beta",
+    "versionCode":  25,
+    "versionName":  "0.9.7-beta",
     "apkUrl":  "https://raw.githubusercontent.com/vincent-deprato/Android-board-releases/main/app-beta.apk",
-    "sha256":  "2db07b7be83635d05c18195bbf22bc9a2d4475d21383a6ae495afa33c04b4ea2",
-    "releaseNotes":  "first beta"
+    "sha256":  "8f2ce19cb7294ef91ba0da1d3eb91d9d9ce6dc4fa6c3ac7132206bc575d48aff",
+    "releaseNotes":  "fix ui telephone"
 }
