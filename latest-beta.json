@@ -1,7 +1,7 @@
 {
-    "versionCode":  29,
-    "versionName":  "0.9.11-beta",
+    "versionCode":  30,
+    "versionName":  "0.9.12-beta",
     "apkUrl":  "https://raw.githubusercontent.com/vincent-deprato/Android-board-releases/main/app-beta.apk",
-    "sha256":  "537a80488d4ad0616df0de40a6b6192a6a0b36177798fc2af8ecb2db40069ffb",
-    "releaseNotes":  "ajout calendrier dans le menu tâche"
+    "sha256":  "0648274a65476f637a9baf2d2160a945460272da712506145cc9c92ba2a98128",
+    "releaseNotes":  "fix calendrier"
 }
